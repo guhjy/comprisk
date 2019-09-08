@@ -1,4 +1,5 @@
 # Comparison of joint models for competing risks and longitudinal data
+[A comparison of different joint models for longitudinal and competing risks data: with application to an epilepsy drug randomised control trial](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12348)
 
 This repository contains the code for each joint model referenced and implemented in the article:
 
